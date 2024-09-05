@@ -5,7 +5,7 @@ import org.openqa.selenium.By;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-import com.in28minutes.webdriver.basics.AbstractChromeWebDriverTest;
+import com.ashTest.webdriver.basics.AbstractChromeWebDriverTest;
 
 // import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
